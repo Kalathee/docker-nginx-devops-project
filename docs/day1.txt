@@ -1,4 +1,0 @@
-Im learned about the docker,docker compose,niginx
-Nginx - It is load balancer ,reverse proxy,and it manages the request from the user and it manages it 
-dcoker - It is used to run the application in the every environment like it makes the application compatible for the every environment and it used to contanarize the application into several microservices 
-docker compose - it used to manage the multiple contianers and sonnect it and helps to communicate with them  
