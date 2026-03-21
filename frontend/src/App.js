@@ -11,7 +11,7 @@ function App() {
 
     return (
         <div className="App">
-            <h1>yes!! Frontend Running ✅</h1>
+            <h1>Frontend Running ✅</h1>
         </div>
     );
 }
