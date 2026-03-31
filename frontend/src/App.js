@@ -11,7 +11,9 @@ function App() {
 
     return (
         <div className="App">
-            <h1>Frontend Running ✅</h1>
+            <h1>Frontend Running ✅
+                thank you
+            </h1>
         </div>
     );
 }
